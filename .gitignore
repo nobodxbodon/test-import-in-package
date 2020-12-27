@@ -1,2 +1,5 @@
 test
 __pycache__
+dist
+build
+test_package_name.egg-info

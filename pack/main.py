@@ -1,6 +1,7 @@
 import os, sys
 
 def local_import(argv=None):
+    print("0.0.10")
     if argv is None:
         argv = sys.argv
     
