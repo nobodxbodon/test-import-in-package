@@ -5,7 +5,7 @@ with open("README.md", "r") as 自述文件:
 
 setuptools.setup(
     name="test-package-name",
-    version="0.0.10",
+    version="0.0.11",
     author="小名",
     author_email="author@example.com",
     description="描述",
