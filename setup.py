@@ -1,15 +1,11 @@
 import setuptools
 
-with open("README.md", "r") as 自述文件:
-    长描述 = 自述文件.read()
-
 setuptools.setup(
     name="test-package-name",
-    version="0.0.11",
-    author="小名",
+    version="0.0.12",
+    author="none",
     author_email="author@example.com",
-    description="描述",
-    long_description=长描述,
+    description="desc",
     long_description_content_type="text/markdown",
     entry_points = {
         "console_scripts": ['myimport = pack.main:local_import']
