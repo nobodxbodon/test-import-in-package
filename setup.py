@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="test-package-name",
-    version="0.0.13",
+    version="0.0.14",
     author="none",
     author_email="author@example.com",
     description="desc",
